@@ -1,4 +1,4 @@
-package ifpb.ads.exemplo.inject;
+package ifpb.locator.cdi;
 
 import static java.lang.annotation.ElementType.FIELD;
 import static java.lang.annotation.ElementType.METHOD;
